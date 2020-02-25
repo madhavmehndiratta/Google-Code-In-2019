@@ -1,0 +1,19 @@
+---
+- name: Automated Tensorflow Installation
+  hosts: localhost
+  become: true
+  tasks:
+    - name: Updating python3
+      dnf:
+       name: python3
+       state: present
+
+    - name: Installing using pip3
+      pip:
+        name: "{{ item }}"
+        state: latest
+         
+      with_items:
+         - tensorflow
+         - pandas
+ 
