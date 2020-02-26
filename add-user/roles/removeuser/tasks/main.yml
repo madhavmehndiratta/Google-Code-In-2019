@@ -1,0 +1,13 @@
+---
+# tasks file for /home/m1m3/gci/ansible-role-add-user/roles/removeuser
+
+- name: Remove the users
+  become: yes
+  become_method: sudo
+  user:
+    name: "{{ item }}"
+    state: absent
+    remove: yes
+  with_items:
+    - test1
+    - test2
