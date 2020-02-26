@@ -1,0 +1,34 @@
+---
+# tasks file for /home/m1m3/gci/ansible-role-install-jenkins/roles/jenkins
+
+- name: Install wget
+  yum:
+    name: wget
+    state: present
+
+- name: Install openjdk
+  yum:
+    name: java-1.8.0-openjdk
+    state: present
+
+- name: Download and add the stable version of jenkins to yum repos
+  get_url:
+    url: http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo
+    dest: /etc/yum.repos.d/jenkins.repo
+
+- name: Add and Verify GPG keys 
+  rpm_key:
+    state: present
+    key: https://jenkins-ci.org/redhat/jenkins-ci.org.key
+
+- name: Install Stable Version of Jenkins
+  yum:
+    name: jenkins
+    state: present
+
+- name: Start and Enable Jenkins
+  systemd:
+    name: jenkins
+    enabled: yes
+    state: started
+

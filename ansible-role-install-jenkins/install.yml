@@ -1,0 +1,8 @@
+---
+- name: Automated Installation of Jenkins
+  hosts: localhost
+  become: yes
+  become_method: sudo
+  roles:
+  - jenkins
+  
