@@ -1,0 +1,10 @@
+---
+- name: "Start and Enable Services"
+  become: yes
+  become_method: sudo
+  systemd: name="{{ item }}" state=restarted enabled=yes  
+  
+  with_items:
+    - httpd
+    - cups
+    - bluetooth

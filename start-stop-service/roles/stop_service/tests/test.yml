@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: root
+  roles:
+    - /home/m1m3/gci/ansible-role-service/roles/stop_service
