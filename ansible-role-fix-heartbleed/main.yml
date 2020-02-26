@@ -1,0 +1,7 @@
+---
+- name: Fix the Heartbleed Vulnerability
+  hosts: localhost
+  become: yes
+  become_method: sudo
+  roles:
+  - heartbleed

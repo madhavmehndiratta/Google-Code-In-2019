@@ -1,0 +1,39 @@
+---
+# tasks file for /home/m1m3/gci/ansible-role-heartbleed/roles/heartbleed
+
+
+- name: Upgrading the possibly vulnerable packages if they are installed
+  yum:
+    state: latest
+    update_only: yes
+    pkg:
+      - httpd
+      - nginx
+      - postgresql
+      - openvpn
+      - unbound
+      - postfix
+      - monit
+      - php-fpm
+      - openssl
+
+- name: Restrating the required services
+  systemd:
+    name: "{{ item }}"
+    state: restarted
+  failed_when: false
+  with_items:
+  - httpd
+  - nginx
+  - postgresql
+  - openvpn
+  - unbound
+  - postfix
+  - monit
+  - php-fpm
+
+- name: Checking if the vulnerable processes still exist
+  shell: lsof -n | grep ssl | grep DEL | wc -l
+  register: result
+  failed_when: result.rc >= 1
+
