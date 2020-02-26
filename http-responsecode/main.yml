@@ -1,0 +1,10 @@
+- hosts: localhost
+  tasks:
+    - name: Capturing Reponse Code....
+      get_response:
+        url: http://github.com/MR-M1M3/
+      register: result
+    - debug:
+        var: result
+
+   
