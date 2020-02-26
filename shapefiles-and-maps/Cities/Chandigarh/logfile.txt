@@ -1,0 +1,37 @@
+osmium2shape version osmium2shape-1.0
+Memory used for node coordinates storage (approximate):
+  for positive IDs: 254 MiB
+  for negative IDs: 16375 MiB
+error building way geometry for way 31141013: must at least contain two nodes
+Ignoring illegal geometry for way 31141013.
+Ignoring illegal geometry for way 112882554.
+Ignoring illegal geometry for way 138959060.
+error building way geometry for way 169249024: must at least contain two nodes
+Ignoring illegal geometry for way 169249024.
+error building way geometry for way 495681151: must at least contain two nodes
+Ignoring illegal geometry for way 495681151.
+error building way geometry for way 531238712: must at least contain two nodes
+Ignoring illegal geometry for way 531238712.
+Ignoring illegal geometry for way 531238714.
+error building way geometry for way 531238715: must at least contain two nodes
+Ignoring illegal geometry for way 531238715.
+Ignoring illegal geometry for way 531238718.
+error building way geometry for way 632104528: must at least contain two nodes
+Ignoring illegal geometry for way 632104528.
+error building way geometry for way 639131077: must at least contain two nodes
+Ignoring illegal geometry for way 639131077.
+error building way geometry for way 639146251: must at least contain two nodes
+Ignoring illegal geometry for way 639146251.
+error building way geometry for way 639146383: must at least contain two nodes
+Ignoring illegal geometry for way 639146383.
+error building way geometry for way 639146392: must at least contain two nodes
+Ignoring illegal geometry for way 639146392.
+error building way geometry for way 639146401: must at least contain two nodes
+Ignoring illegal geometry for way 639146401.
+Ignoring illegal geometry for way 639220821.
+Ignoring illegal geometry for way 639226406.
+Ignoring illegal geometry for way 643057295.
+Ignoring illegal geometry for way 643057296.
+Ignoring illegal geometry for way 643063384.
+error building way geometry for way 662021529: must at least contain two nodes
+Ignoring illegal geometry for way 662021529.
