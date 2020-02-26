@@ -1,0 +1,3 @@
+mendeleev
+pygame
+random
