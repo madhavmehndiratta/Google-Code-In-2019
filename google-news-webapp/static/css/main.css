@@ -1,0 +1,121 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color:rgb(32, 32, 32);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 70px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color:whitesmoke;
+  }
+
+.flexbox-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.grid {
+    border-radius: 10px;
+    margin: 2vh 0 5vh;
+    width: 300px;
+    padding: 32px;
+    box-shadow: 0 0 5px grey;
+}
+
+.grid-item-title {
+    margin: 10px 0;
+    margin-bottom: auto;
+    color: whitesmoke;
+}
+
+.grid-item-description {
+    margin: 10px 0;
+    margin-top: auto;
+    padding-top: 50px;
+    color: whitesmoke;
+}
+
+.grid-item-click {
+    text-align: right;
+}
+img {
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 250px;
+    height: 150px;
+}
+
+@media only screen and (min-width: 900px){
+    .grid {
+        flex: 1;
+        display: grid;
+        grid-template-columns: 300 auto auto;
+        grid-template-rows: 32px auto auto;
+        grid-template-areas: 
+            "img title"
+            "img description"
+            "img click";
+        grid-column-gap: 30px;
+        grid-row-gap: 40px;
+        margin: 1vh 0 5vh;
+        width: 80vw;
+        padding: 32px;
+        box-shadow: 0 0 10px whitesmoke;
+    }
+
+    .grid-item-title {
+        grid-area: title;
+        grid-column: 2/2;
+        grid-row: 1/1;
+    }
+
+    .grid-item-img {
+        grid-area: img;
+        width: 200px;
+        height: auto;
+        
+        grid-column: 1/1;
+        grid-row: 1/2;
+       
+    }
+    .grid-item-img img { 
+        padding-top: 50px;
+        width: 200px;
+        height: 150px;
+        grid-column: 1/1;
+        grid-row: 1/2;
+       
+    }
+    .grid-item-description {
+        grid-area: description;
+        
+        grid-column: 2/2;
+        grid-row: 2/2;
+       
+    }
+    .grid-item-click {
+        text-align: right;
+    
+        grid-area: click;
+    }
+}
+
+a {
+    font-weight: bold;
+    color: whitesmoke;
+    transition: 0.5s ease-in-out;
+    will-change: opacity;
+}
+
+a:hover {
+    opacity: 0.7;
+}
