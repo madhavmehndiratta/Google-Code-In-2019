@@ -1,0 +1,13 @@
+---
+- hosts: localhost
+  tasks:
+    - name: Adding User
+      become: yes
+      become_method: sudo
+      user:
+        name: "{{ item }}"
+        password: '$6$/f4/cQ5LfMMH6Bmr$8VYq36Meq9bvke05ObxY8XVreT3QJPILEE5RrVdoeW5TMTZ3YcnIX4gOQhgOYdqnA8TYyYnJoFWsKuCyJjmY90'
+        shell: /bin/bash
+      with_items:
+       - test1
+       - test2
