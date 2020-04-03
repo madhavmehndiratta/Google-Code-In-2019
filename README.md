@@ -1,6 +1,6 @@
 # Google Code In 2019 #
 
-This year I completed 66 tasks (Display Name: `m1m3`) and was named a Runner UP by [Fedora Project.](https://getfedora.org/)
+This year I (Display Name: `m1m3`) completed 66 tasks and was named a Runner UP by [Fedora Project.](https://getfedora.org/)
 
 ![resources/result.png](resources/result.png)
 
@@ -46,7 +46,7 @@ You have to submit:
 
 
 ### Submission: ###
-- Github Link - https://github.com/madhavmehndiratta/Google-Code-In-2019/zip-bruteforce
+- Github Link - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/zip-bruteforce
 
 ## Task 5: File forensics using bash tools ##
 
@@ -67,7 +67,7 @@ Deliverables:
 - Share the code in Pagure/Github and attach the Asciinema showing the number of devices to the Wifi.
 
 ### Submission: ###
-- Github Link - https://github.com/madhavmehndiratta/Google-Code-In-2019/network-scanner
+- Github Link - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/network-scanner
 
 ## Task 7: Install VSCodium with repo ##
 
@@ -88,7 +88,7 @@ Submit the SRPM file, Spec file and a small step by step guide (~150 words).
 - https://docs.python.org/2.0/dist/creating-rpms.html 
 
 ### Submission: ###
-- Github Link - https://github.com/madhavmehndiratta/Google-Code-In-2019/rpm-package
+- Github Link - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/rpm-package
 
 ## Task 9: Reverse Engineering to extract password from binary files ##
 
@@ -116,7 +116,7 @@ Deliverables:
 Submit the code in Pagure/GitHub. Attach the image you encrypted along with the Asciinema recording while you perform the encryption and decryption.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/image-steganography
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/image-steganography
 
 - Asciinema - https://asciinema.org/a/e2bQzgczJ5VH6aAR2MLSyhpc1
 
@@ -179,7 +179,7 @@ Deliverables:
 Share the code in Pagure/GitHub and also attach the Asciinema recording of the scanner running in your terminal. 
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/port-scanner
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/port-scanner
 - Asciinema - https://asciinema.org/a/Sk6Yd2gXWwxjHkgPffdzdwxBb
 
 ## Task 15: Setup minishift on your local machine ##
@@ -202,7 +202,7 @@ Deliverables:
 Upload your script to GitHub/Pagure and attach a Asciinema of your terminal showing the script doing its job. 
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/social-media-scanner
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/social-media-scanner
 - Asciinema - https://asciinema.org/a/0LRN6EgjxLqP5TuQf6K9B18Yd
 
 ## Task 17: Learn basics of GPG ##
@@ -228,7 +228,7 @@ Deliverables:
 Share the code in Pagure/GitHub and attach the Asciinema. Write how can we prevent this attack in the README.md file.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/web-crawler
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/web-crawler
 - Asciinema - https://asciinema.org/a/TeQ225uxTGU3DbJmDtKnOvpNd
 
 ## Task 19: Setup Borg backup ##
@@ -254,7 +254,7 @@ Deliverables:
 Share the code in GitHub/Pagure with the ASCIINEMA included. 
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/wordlist-generator
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/wordlist-generator
 - Asciinema - https://asciinema.org/a/SRHTj18qphstPUlsLqSqleuQ5
 
 ## Task 21: Hashing and Hash Cracking ##
@@ -272,7 +272,7 @@ Deliverables:
 Share the GitHub/Pagure link which has your code and the link to the ASCIINEMA. 
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/hashing-and-cracking
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/hashing-and-cracking
 - Asciinema - https://asciinema.org/a/pWs3dBXzP3OktVzqrC3QjepU4
 
 ## Task 22: Automated codeforces registration ##
@@ -281,7 +281,7 @@ Share the GitHub/Pagure link which has your code and the link to the ASCIINEMA.
 Automated Registration for contests at Codeforces Platform Using Selenium.Your task involves installing Selenium web driver on Firefox/Chrome, using python to write a script to open your preferred browser, open Codeforces and register to the contest. And once its done, take a screenshot of the window. Make a github repo with your script and a readme clearly stating the steps of using the script.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/codeforces-autoregistration
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/codeforces-autoregistration
 
 ## Task 23: Run an application in podman container ##
 
@@ -303,7 +303,7 @@ In order to complete the part, where the GUI is launched on system boot, write t
 
 
 ### Submission: ###
-Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/lazyscript/
+Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/lazyscript/
 
 ## Task 25: Create your own Shodan scanner for your terminal ##
 
@@ -330,7 +330,7 @@ Share the Screenshots of all 3 attacks in a PDF/Word file. Below the screenshots
 Install python3 and Django 2.x on your linux workstation and get started with your first django application. Firstly install the requirements and then initialize your first application and use it on the localhost. Explore the use of models, views and urls as they would be used in other django related tasks.Also,create a superuser and explore the admin panel. Finally create a repository with readme.md file and the code for the first Hello world app. The readme must contain the instructions to set up django and also to get your hello world app running.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/django-helloworld
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/django-helloworld
 
 ## Task 27: Spell checker with python ##
 
@@ -345,7 +345,7 @@ Ever felt how spell checking works? it instantly detects the errors and prompts 
 6. You are allowed to use the spellchecker pip package.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/spell-check
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/spell-check
 
 ## Task 28: Code an app that shows the state of 2 circles ##
 
@@ -361,7 +361,7 @@ The app must be able to tell:
 - Hint: you can use python turtle for drawings.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/circles-state
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/circles-state
 
 ## Task 29: Test the Fedora Kernel ##
 
@@ -392,7 +392,7 @@ Deliverables:
 Upload the Code to Pagure/GitHub and give a small explanation about Tensorflow in the README file. Provide an Asciinema of your terminal while executing your code.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/ansible-playbook-tensorflow
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/ansible-playbook-tensorflow
 - Asciinema - https://asciinema.org/a/h5LpWpXlP6wZH2m9liBDELqzK
 
 ## Task 31: Copy python tests for Modulemd.ModuleIndexMerger.test_merger_with_real_world_data into C ##
@@ -411,7 +411,7 @@ https://github.com/fedora-modularity/libmodulemd#getting-started-with-developing
 Make a GUI to implement Tic Tac Toe game using Tkinter. Convert the GUi to a .deb file for use on your favourite linux distribution. Make a github repository with the code and instructions to use it.
 
 ### Submission: ###
-Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tic-tac-toe
+Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/tic-tac-toe
 
 ## Task 33: Use python-fedora to find out the FAS ID corresponding to an email ID ##
 
@@ -427,7 +427,7 @@ Resources You can make use of the following resources to complete the task:
 Deliverables Please upload the script and submit a link to the repository (hosted either on GitHub or Pagure).
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/fas-associated-email
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/fas-associated-email
 
 
 ## Task 34: Setup fedora-messaging on your local machine and publish & listen messgaes ##
@@ -443,7 +443,7 @@ Deliverables
 - Upload a screenshot or screen recording of the listener and publisher in action.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/fedora-messaging
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/fedora-messaging
 
 ## Task 35: Write a blogpost about how to setup fedora messaging to listen and publish messages using message schemas ##
 
@@ -465,7 +465,7 @@ Deliverables:
 Upload the Code to Pagure/GitHub and give a small explanation about response codes in the README file. Provide an Asciinema of your terminal while executing your code.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/http-responsecode
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/http-responsecode
 
 - Asciinema - https://asciinema.org/a/YGjaI7Hg1WflFaFUARjUUAZpk
 
@@ -492,7 +492,7 @@ Deliverables:
 - Make a Pagure/GitHub repository with the article and the code(include the concept) and share the link.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/unrestricted-file-upload
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/unrestricted-file-upload
 
 ## Task 39: Time Bound Computation (Python) ##
 
@@ -510,7 +510,7 @@ Please share the github link for the repo containing:
 3. The explanation in README.md
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/time-bound-computation
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/time-bound-computation
 
 ## Task 40: Shapefiles and maps ##
 
@@ -524,7 +524,7 @@ Plot the shapefiles for 5 cities.
 Please provide the github link consisting of the source code along with the maps that you've created.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/shapefiles-and-maps
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/shapefiles-and-maps
 
 ## Task 41: What is a makefile anyway? ##
 
@@ -534,7 +534,7 @@ Create a Makefile which will execute a small C++ program which would output some
 Please provide the link for the git repository consisting of the source code. Bonus points for following convention.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/introduction-to-makefile
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/introduction-to-makefile
 
 ## Task 42: DO NOT INCREASE INSTANCE - Your thoughts on GCI ##
 
@@ -552,7 +552,7 @@ Make your own codeforces scrapper in python using codeforces API which takes in 
 API documentation : https://codeforces.com/apiHelp
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/codeforces-scraper
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/codeforces-scraper
 
 ## Task 44: Remote Command Execution using reverse Shell ##
 
@@ -564,7 +564,7 @@ Deliverables:
 Submit the code in Pagure/GitHub and and Asciinema recording which shows you are controlling the victim.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/reverse-shell
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/reverse-shell
 
 ## Task 45: Bookmark Application ##
 
@@ -572,8 +572,8 @@ Submit the code in Pagure/GitHub and and Asciinema recording which shows you are
 Create your own bookmark application where you can add/delete bookmarks from the browser's local storage. Make the web interface responsive and user-friendly. Host it on github pages.
 
 ### Submission: ###
-- Application Link - https://madhavmehndiratta/Google-Code-In-2019.github.io/bookmark-application/
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/madhavmehndiratta/Google-Code-In-2019.github.io/tree/master/bookmark-application
+- Application Link - https://madhavmehndiratta/Google-Code-In-2019/tree/master.github.io/bookmark-application/
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/madhavmehndiratta/Google-Code-In-2019/tree/master.github.io/tree/master/bookmark-application
 
 ## Task 46: Write an Ansible role to Start|Stop|Restart a service in Fedora ##
 
@@ -585,7 +585,7 @@ Deliverables:
 Upload the Code to Pagure/GitHub and an Asciinema recording of your terminal. 
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/start-stop-service
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/start-stop-service
 - New Asciinema - https://asciinema.org/a/KaiJMYPu6IlwPzYzi95e4gDJH
 
 ## Task 47: Write an ansible role to add a new user to your system. ##
@@ -598,7 +598,7 @@ Deliverables:
 Upload the code to Pagure/GitHub. Send the Screenshot of the New User Logged in. Explain the step in the README file.Provide an Asciinema of your terminal while executing your code.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/add-user
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/add-user
 - Asciinema - https://asciinema.org/a/XdKVQXyCuRXmAmY5SRC80jtjJ
 
 ## Task 48: Copy python tests for Modulemd.ModuleStream.community into C ##
@@ -623,7 +623,7 @@ Submit the github repo, you can use pygame to create the environment.
 
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/wildcard-guess-game
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/wildcard-guess-game
 
 ## Task 50: Search Engine Dorking to find vulnerable websites ##
 
@@ -648,7 +648,7 @@ Deliverables:
 Upload the Code to Pagure/GitHub and give a small explanation about Jenkins in the README file.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/ansible-role-install-jenkins
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/ansible-role-install-jenkins
 - Asciinema - https://asciinema.org/a/IbfqTJxDaWaCJ8nlcdXXLp4Lp
 
 ## Task 52: Working with Ansible Vault. ##
@@ -661,7 +661,7 @@ Deliverables:
 Share the code(The YML file you encrypted and the encrypted YML output file) in Pagure/GitHub and write how did you use ansible-vault step-by-step also provide some uses of ansible vault.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/ansible-vault
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/ansible-vault
 - Asciinema - https://asciinema.org/a/hry7UI8VL2duuLji0ncAtPlnp
 
 ## Task 53: Twitter Bot for posting articles from Fedora Magazine. ##
@@ -672,7 +672,7 @@ Write a python script that automatically posts tweets of links of latest article
 Output - Code of python script in Github Screencast of the blog getting posted.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/scrappie-bot
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/scrappie-bot
 - Asciinema - https://asciinema.org/a/126ALq7iJZfMYEmdYl18whk9j
 
 ## Task 54: Create your first Telegram Bot ##
@@ -681,7 +681,7 @@ Output - Code of python script in Github Screencast of the blog getting posted.
 Make a simple bot which fetches the number of forks from the repo of Fedora-Infra. Scrape from https://api.github.com/orgs/fedora-infra/repos. Make a dedicated repository or show the code via gist. Make the bot in Python. Python - https://github.com/python-telegram-bot/python-telegram-bot (https://python-telegram-bot.readthedocs.io/en/stable/) Submit a link to your repository. Add an demo attachment(png).
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/telegram-fork-bot
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/telegram-fork-bot
 
 ## Task 55: Image manipulation with python ##
 
@@ -691,7 +691,7 @@ Create a python script that that scales images by 400 by 400 or less pixels and 
 The aspect ratio shouldn't change.(one of the side should be 400 while the other can be 400 or less)
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/image-manipulation
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/image-manipulation
 - Asciinema - https://asciinema.org/a/dYmdnMSICdfsjfZf8E9rUbcRC
 
 ## Task 56: Not so fast... think a little more ##
@@ -702,7 +702,7 @@ Given a integer number N with 0≤N≤1024, you must print the value of 2^N with
 Example: Input: 100 Output: 1267650600228229401496703205376
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/exponential-algorithm
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/exponential-algorithm
 
 ## Task 57: Ansible roles used in security automation(fix Heartbleed bug). ##
 
@@ -718,7 +718,7 @@ Deliverables:
 Submit the code to Pagure/GitHub. Provide an Asciinema of your terminal while executing your code.
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/ansible-role-fix-heartbleed.git
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/ansible-role-fix-heartbleed.git
 - Asciinema - https://asciinema.org/a/DGPU2tP9vFMLZXJ4CxLCAvsIK
 
 ## Task 58: Easy Peasy Lemon Squeezy ##
@@ -736,7 +736,7 @@ Examples:
 - input 10 output 4
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/divisor-algorithm
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/divisor-algorithm
 
 ## Task 59: Create a program to detect colors from an image ##
 
@@ -765,7 +765,7 @@ As we know the n-queens problem is NP-complete so we only need a program to calc
 https://en.wikipedia.org/wiki/Eight_queens_puzzle 
 
 ### Submission: ###
-- Github repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/20-queens
+- Github repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/20-queens
 - Asciinema - https://asciinema.org/a/Rh7toDd7UvF8IUlZFOqKgM0cA
 
 ## Task 61: Implement Google News API ##
@@ -777,7 +777,7 @@ You should create an app or a website that uses the given code combined with req
 Submit your python, Node.js or C# made app along with a recording of you running it. Having a GUI is mandatory.
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/google-news-webapp
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/google-news-webapp
 - Heroku App - https://google-news-webapp.herokuapp.com/
 
 ## Task 62: Flask app for NASA APOD API ##
@@ -788,7 +788,7 @@ Crate a flask app which would use the NASA Astronomy Picture of the Day API to f
 Provide the link to git repo
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/nasa-apod-webapp
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/nasa-apod-webapp
 
 ## Task 63: Deploying the Python (flask) application on the internet (Heroku) ##
 
@@ -824,12 +824,12 @@ Rules:
 - If incorrect more than 5 times then game over. Note: You need to check for a valid element is entered or not and show appropriate error
 
 Submission format
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/university-management
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/university-management
 
 Github link with code and scrrenshots of the GUI
 
 ### Submission: ###
-- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/periodic-table-game
+- Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/periodic-table-game
 
 ## Task 66: Avengers Endgame ##
 
@@ -884,5 +884,5 @@ Test cases:
 https://drive.google.com/open?id=11zJPw-X2_JQbJVXQHQ5Aw5YJ-6QrMBFh 
 
 ### Submission: ###
-- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/avengers-endgame
+- GitHub Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/avengers-endgame
 - Asciinema - https://asciinema.org/a/Gs4ADIynf287MBuPuZeZDURey
