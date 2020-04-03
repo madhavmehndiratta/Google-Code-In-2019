@@ -572,7 +572,7 @@ Submit the code in Pagure/GitHub and and Asciinema recording which shows you are
 Create your own bookmark application where you can add/delete bookmarks from the browser's local storage. Make the web interface responsive and user-friendly. Host it on github pages.
 
 ### Submission: ###
-- Application Link - https://madhavmehndiratta/Google-Code-In-2019/tree/master.github.io/bookmark-application/
+- Application Link - https://madhavmehndiratta.github.io/bookmark-application/
 - Github Repo - https://github.com/madhavmehndiratta/Google-Code-In-2019/tree/master/madhavmehndiratta/Google-Code-In-2019/tree/master.github.io/tree/master/bookmark-application
 
 ## Task 46: Write an Ansible role to Start|Stop|Restart a service in Fedora ##
