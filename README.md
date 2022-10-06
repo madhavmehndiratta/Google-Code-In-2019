@@ -667,7 +667,7 @@ Share the code(The YML file you encrypted and the encrypted YML output file) in 
 ## Task 53: Twitter Bot for posting articles from Fedora Magazine. ##
 
 ### Task Description: ###
-Write a python script that automatically posts tweets of links of latest articles in Fedora Magazine along with their titles. For example Fedora and CentOS Stream https://fedoramagazine.org/fedora-and-centos-stream/. Learn more about scripting from https://www.guru99.com/python-tutorials.html. You can get recent articles from fedora magazine (https://fedoramagazine.org/). Don’t use Twitter API, for posting tweets, using Selenium or PhantomJS or any suitable web browser. Follow this article for more help https://realpython.com/modern-web-automation-with-python-and-selenium/
+Write a python script that automatically posts tweets of links of latest articles in Fedora Magazine along with their titles. For example Fedora and CentOS Stream https://fedoramagazine.org/fedora-and-centos-stream/. Learn more about scripting from https://www.guru99.com/python-tutorials.html or https://www.interviewbit.com/courses/fast-track-python/. You can get recent articles from fedora magazine (https://fedoramagazine.org/). Don’t use Twitter API, for posting tweets, using Selenium or PhantomJS or any suitable web browser. Follow this article for more help https://realpython.com/modern-web-automation-with-python-and-selenium/
 
 Output - Code of python script in Github Screencast of the blog getting posted.
 
