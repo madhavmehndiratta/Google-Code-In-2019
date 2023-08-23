@@ -1,8 +1,10 @@
 # Google Code In 2019 #
 
-This year I (Display Name: `m1m3`) completed 66 tasks and was named a Runner UP by [Fedora Project.](https://getfedora.org/)
+In 2019, I (Display Name: `m1m3`) completed 66 tasks in GCI and was named as a Runner Up by [Fedora Project.](https://getfedora.org/)
 
 ![resources/result.png](resources/result.png)
+
+Results URL: [https://opensource.googleblog.com/2020/02/announcing-our-google-code-in-2019.html](https://opensource.googleblog.com/2020/02/announcing-our-google-code-in-2019.html)
 
 ## Task 1: Install Dash to dock extension gnome ##
 
